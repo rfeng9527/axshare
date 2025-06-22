@@ -111,6 +111,8 @@
 }
 .line {
 }
+.arrow {
+}
 .text_field {
   color:#000000;
   text-align:left;
@@ -120,6 +122,9 @@
   text-align:left;
 }
 .checkbox {
+  text-align:left;
+}
+.radio_button {
   text-align:left;
 }
 .table_cell {
@@ -187,6 +192,43 @@
 .shape1 {
 }
 .paragraph {
+  text-align:left;
+}
+.line1 {
+}
+.image1 {
+}
+.box_31 {
+}
+._主标题 {
+  font-family:'Microsoft YaHei UI Bold', 'Microsoft YaHei UI', sans-serif;
+  font-weight:700;
+  font-style:normal;
+  font-size:16px;
+  color:#464C5B;
+  text-align:left;
+}
+.text_area {
+  color:#000000;
+  text-align:left;
+}
+._链接文字 {
+  font-family:'Microsoft YaHei UI', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:12px;
+  color:#2D8CF0;
+  text-align:left;
+}
+._正文 {
+  font-family:'Microsoft YaHei UI', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:12px;
+  color:#657180;
+  text-align:left;
+}
+.tree_node {
   text-align:left;
 }
 textarea, select, input, button { outline: none; }
