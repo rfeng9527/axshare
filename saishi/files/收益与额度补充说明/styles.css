@@ -122,3 +122,39 @@
   word-wrap:break-word;
   text-transform:none;
 }
+#u4417_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:184px;
+  height:150px;
+  background:inherit;
+  background-color:rgba(215, 215, 215, 1);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+}
+#u4417 {
+  border-width:0px;
+  position:absolute;
+  left:201px;
+  top:690px;
+  width:184px;
+  height:150px;
+  display:flex;
+}
+#u4417 .text {
+  position:absolute;
+  align-self:center;
+  padding:2px 2px 2px 2px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u4417_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+}
