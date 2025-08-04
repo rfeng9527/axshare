@@ -1,14 +1,14 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="26px" height="26px" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <mask fill="white" id="clip120">
+    <mask fill="white" id="clip10">
       <path d="M 492 770  C 484.785 770  479 764.215  479 757  L 479 757  C 479 749.785  484.785 744  492 744  L 492 744  C 499.215 744  505 749.785  505 757  L 505 757  C 505 764.215  499.215 770  492 770  " fill-rule="evenodd" />
     </mask>
   </defs>
   <g transform="matrix(1 0 0 1 -479 -744 )">
-    <path d="M 479 744  L 505 744  L 505 770  L 479 770  L 479 744  " fill-rule="nonzero" fill="#cccccc" stroke="none" mask="url(#clip120)" />
-    <path d="M 481 746  L 503 746  L 503 768  L 481 768  L 481 746  " fill-rule="nonzero" fill="#ffffff" stroke="none" mask="url(#clip120)" />
-    <path d="M 494.47 751.8  C 493.378 751.8  492.52 750.942  492.52 749.85  C 492.52 748.758  493.378 747.9  494.47 747.9  C 495.562 747.9  496.42 748.758  496.42 749.85  C 496.42 750.942  495.562 751.8  494.47 751.8  " fill-rule="nonzero" fill="#cccccc" stroke="none" mask="url(#clip120)" />
-    <path d="M 482 768  L 482 756.45  L 487.25 751.2  L 494.6 755.4  L 498.8 754.35  L 503 755.4  L 503 768  L 482 768  " fill-rule="nonzero" fill="#169bd5" stroke="none" mask="url(#clip120)" />
+    <path d="M 479 744  L 505 744  L 505 770  L 479 770  L 479 744  " fill-rule="nonzero" fill="#cccccc" stroke="none" mask="url(#clip10)" />
+    <path d="M 481 746  L 503 746  L 503 768  L 481 768  L 481 746  " fill-rule="nonzero" fill="#ffffff" stroke="none" mask="url(#clip10)" />
+    <path d="M 494.47 751.8  C 493.378 751.8  492.52 750.942  492.52 749.85  C 492.52 748.758  493.378 747.9  494.47 747.9  C 495.562 747.9  496.42 748.758  496.42 749.85  C 496.42 750.942  495.562 751.8  494.47 751.8  " fill-rule="nonzero" fill="#cccccc" stroke="none" mask="url(#clip10)" />
+    <path d="M 482 768  L 482 756.45  L 487.25 751.2  L 494.6 755.4  L 498.8 754.35  L 503 755.4  L 503 768  L 482 768  " fill-rule="nonzero" fill="#169bd5" stroke="none" mask="url(#clip10)" />
   </g>
 </svg>
