@@ -10,7 +10,12 @@
   line-height:normal;
   text-transform:none;
 }
+.box_1 {
+}
 ._图像_ {
+}
+.link_button {
+  color:#169BD5;
 }
 ._一级标题 {
   font-family:'Arial Normal', 'Arial', sans-serif;
@@ -53,7 +58,18 @@
   font-size:10px;
   text-align:left;
 }
+.label {
+  font-size:14px;
+  text-align:left;
+}
 ._文本段落 {
+  text-align:left;
+}
+.table_cell {
+}
+._连接 {
+}
+.sticky_1 {
   text-align:left;
 }
 ._表单提示 {
@@ -92,5 +108,7 @@
 ._形状1 {
 }
 .box_2 {
+}
+.ellipse1 {
 }
 textarea, select, input, button { outline: none; }
