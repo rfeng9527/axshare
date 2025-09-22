@@ -12,7 +12,14 @@
 }
 .box_1 {
 }
+.box_3 {
+}
 ._图像_ {
+}
+.button {
+}
+.primary_button {
+  color:#FFFFFF;
 }
 .link_button {
   color:#169BD5;
@@ -65,12 +72,22 @@
 ._文本段落 {
   text-align:left;
 }
+.droplist {
+  color:#000000;
+  text-align:left;
+}
+.checkbox {
+  text-align:left;
+}
 .table_cell {
 }
 ._连接 {
 }
 .sticky_1 {
   text-align:left;
+}
+.marker {
+  color:#FFFFFF;
 }
 ._表单提示 {
   color:#999999;
@@ -110,5 +127,11 @@
 .box_2 {
 }
 .ellipse1 {
+}
+._形状2 {
+  font-family:'Microsoft YaHei UI Bold', 'Microsoft YaHei UI', sans-serif;
+  font-weight:700;
+  font-style:normal;
+  color:#FF0066;
 }
 textarea, select, input, button { outline: none; }
